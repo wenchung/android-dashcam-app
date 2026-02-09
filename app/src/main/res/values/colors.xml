@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- 主題色 -->
+    <color name="primary">#FF2196F3</color>
+    <color name="primary_dark">#FF1976D2</color>
+    <color name="accent">#FFFF5722</color>
+    
+    <!-- 警告色 -->
+    <color name="warning_red">#FFFF0000</color>
+    <color name="warning_yellow">#FFFFFF00</color>
+    <color name="warning_overlay">#80FF0000</color>
+    
+    <!-- 背景 -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#40000000</color>
+    
+    <!-- 錄影指示 -->
+    <color name="recording_indicator">#FFFF0000</color>
+</resources>
