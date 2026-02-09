@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">智能行車紀錄器</string>
+    
+    <!-- 按鈕文字 -->
+    <string name="start_recording">開始錄影</string>
+    <string name="stop_recording">停止錄影</string>
+    <string name="settings">設定</string>
+    
+    <!-- 警告訊息 -->
+    <string name="warning_left">左側行人接近！</string>
+    <string name="warning_right">右側行人接近！</string>
+    <string name="warning_distance">距離: %.1fm</string>
+    
+    <!-- 權限 -->
+    <string name="permission_camera">需要相機權限以進行錄影</string>
+    <string name="permission_audio">需要錄音權限</string>
+    <string name="permission_storage">需要儲存權限以保存影片</string>
+    <string name="permission_denied">權限被拒絕，無法使用行車紀錄器</string>
+    
+    <!-- 錄影狀態 -->
+    <string name="recording">錄影中</string>
+    <string name="recording_time">錄影時間: %s</string>
+    <string name="segment_created">新分段開始</string>
+    
+    <!-- 儲存空間 -->
+    <string name="storage_used">已使用: %dMB</string>
+    <string name="storage_days">保留 %d 天記錄</string>
+    
+    <!-- 通知 -->
+    <string name="notification_channel_name">行車紀錄器服務</string>
+    <string name="notification_channel_desc">顯示錄影狀態</string>
+    <string name="notification_recording">正在錄影中...</string>
+    
+    <!-- 偵測設定 -->
+    <string name="detection_enabled">行人偵測已啟用</string>
+    <string name="detection_disabled">行人偵測已關閉</string>
+    <string name="sensitivity">警告靈敏度</string>
+    <string name="sensitivity_high">高</string>
+    <string name="sensitivity_medium">中</string>
+    <string name="sensitivity_low">低</string>
+</resources>
